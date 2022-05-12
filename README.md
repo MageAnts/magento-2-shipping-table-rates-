@@ -2,10 +2,10 @@
 	<main>
 		<div class="content-wrapper">
 			<div class="content-inner">
-				<h2>Magento 2 Shipping Table Rates Extension</h2>
+				<h1>Magento 2 Shipping Table Rates Extension</h1>
 				<p><strong><a href="https://www.mageants.com/shipping-table-rates-for-magento-2.html">Magento 2 Shipping Table Rates Extension</a></strong> helps make multiple shipping options with offers and percent based on the delivery address, cart value and item quantity. A store admin can define different shipping costs and methods based on customer groups and product purchasing rates.</p>
 				<div class="features-wrapper">
-					<h3>Key Features</h3>
+					<h2>Key Features</h2>
 					<ul>
 						<li>Display delivery date and time along with shipping method and cost.</li>
 						<li>A store owner can make edits in the shipping method and cost as per their convenience.</li>
